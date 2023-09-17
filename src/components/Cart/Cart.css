@@ -1,0 +1,39 @@
+.cart-title{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.cart{
+    background-color: rgba(255, 153, 0, 0.3);
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+.cart p{
+    margin-left: 24px;
+}
+
+.cart button{
+    width: 75%;
+    display: block;
+    margin: 10px auto;
+}
+
+.btn-clear{
+    background-color: #FF3030;
+    color: white;
+}
+
+.btn-review{
+    background-color: #FF9900;
+    color: white;
+}
+
+.btn{
+    text-decoration: none;
+}
